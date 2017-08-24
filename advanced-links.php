@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Advanced Link Styling
-Plugin URI: http://www.grindstone.com.au
+Plugin URI: http://www.ykat.com.au
 Description: Custom link styling options. Made for the original theme.
 Version: 1
 Author: Yavisht Katgara
-Author URI: https://www.grindstone.com.au
+Author URI: http://www.ykat.com.au
 Text Domain: advanced-link-styling
 Domain Path: /languages
 */
